@@ -8,6 +8,10 @@ html, body {
   overflow-x: hidden;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 div#main {
   width: 100vw;
   flex-direction: column;
